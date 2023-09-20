@@ -9,7 +9,7 @@ The `raise NotImplementedError(...)`s are placeholders to help you not skip impl
 a function. They should be removed and replaced with your solution.
 
 This portion of the assignment will not be graded, but this gives you some problems to 
-check, if you do not complete the generative AI portion of the assignment.
+check, if you do not complete the generat ive AI portion of the assignment.
 """
 
 from typing import List, TypeVar
@@ -121,7 +121,7 @@ def duck_duck_goose(lst: List[str]) -> List[str]:
 
 
 # this line causes the nested code to be skipped if the file is imported instead of run
-if __name__ == "__main__":
+if __name__ == "__main__":+
     assert absolute(-1) == 1, "absolute of -1 failed"
     assert factorial(4) == 24, "factorial of 4 failed"
     assert every_other([1, 2, 3, 4, 5]) == [
