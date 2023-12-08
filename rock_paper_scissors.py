@@ -12,7 +12,7 @@ def get_choices():
     choices = {"player": player_choice, "computer": computer_choice}
 
     return choices
-
+ 
 
 
 # function to check for win

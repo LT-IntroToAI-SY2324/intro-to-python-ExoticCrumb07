@@ -22,4 +22,5 @@ There are still functions like return and instead of using semi-colon we use col
 
 3. What are some things that you learned through this assignment?
 
-I learned how to read slower and carefully when solving ai problems because the coding can get very tedious.
+I learned how to read slower and carefully when solving ai problems because the coding can get very tedious. 
+#finished the assignment

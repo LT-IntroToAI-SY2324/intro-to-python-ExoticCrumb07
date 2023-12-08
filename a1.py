@@ -167,4 +167,4 @@ if __name__ == "__main__":
     print(duck_duck_goose(names))
     assert duck_duck_goose(names) == ["roscoe", "law"]
 
-    print("All tests passed!")
+    print("All tests passed!") 

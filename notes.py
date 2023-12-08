@@ -12,7 +12,7 @@ mynum = 47
 anothernum = 47.7
 print(type(mynum))
 print(type(anothernum))
-
+ 
 # bools - True, False
 flag = True
 print(flag)
