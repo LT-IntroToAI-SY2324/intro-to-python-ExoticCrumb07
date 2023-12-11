@@ -5,7 +5,7 @@ There is a lot of value in using chatGPT (or other generative AI) outside of jus
 
 ## How to Ask Questions
 The majority of developers work by searching for information on Google and StackOverflow, in fact, this is how I learned how to program, and I still do that.  So, it is completely normal for you to spend a lot of time on those platforms, including chatGPT. You just need to know how to ask the correct questions, and you won't always ask the correct questions, so you'll continue to learn from your mistakes.
-
+ 
 1. Learn the basics first - Before we start using chatGPT extensively we should learn the basics of python first.  Everyone should have some basic programming knowledge, but we will go over the basics of python.  I'm going to go over a lot of information, but I would also recommend doing a free online tutorial like this one on freecodecamp.
 2. Ask questions, then learn - Having an answer and just copying and pasting it won't make us learn how to program.  If the code you get from chatGPT works, you should ask it to explain it and why it is used.  At the beginning, your role is to learn so that in the future you can use chatGPT less and be more independent, which is why you should always ask for code explanations.
 3. Solve actual problems - When programming, we can solve the same problem with different methods: this is why it doesn’t make any sense to just ask ChatGPT to generate some random code. We absolutely need to ask chatGPT for something related to a project we are making or a problem we need to solve.

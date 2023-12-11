@@ -14,10 +14,13 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+It's nothing like javascript, and it's gonna take some time to get used to it.
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+There are still functions like return and instead of using semi-colon we use colons
 
 3. What are some things that you learned through this assignment?
+
+I learned how to read slower and carefully when solving ai problems because the coding can get very tedious. 
+#finished the assignment

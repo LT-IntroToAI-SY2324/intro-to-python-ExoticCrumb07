@@ -9,7 +9,7 @@ Python coding skills to practice.
 Can you give me some programming challenge questions at a 
 beginner-intermediate level?
 ```
-
+ 
 Here is ChatGPT's response, yours could be different:
 ---
 Absolutely! Here's a set of beginner-intermediate level programming challenges in Python to help you practice and solidify your skills:
